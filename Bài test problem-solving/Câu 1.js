@@ -8,5 +8,5 @@ function findOppositenumber(n, inputNumber){
   else 
    return 0
 }
-document.getElementById("demo").innerHTML = findOppositenumber( 10 ,6)
+document.getElementById("demo").innerHTML = `Kết quả là ` + findOppositenumber( 10 ,2)
 
