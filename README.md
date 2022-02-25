@@ -1,0 +1,1 @@
+# mindx-entrance-test
